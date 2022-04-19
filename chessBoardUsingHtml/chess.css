@@ -1,0 +1,25 @@
+h1{
+    position: absolute;
+    right: 680px;
+    top: 50px;
+}
+
+.black{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+.white{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.tbody{
+    border: 1px solid black;
+    position: absolute;
+    right: 550px;
+    top: 160px;
+}
