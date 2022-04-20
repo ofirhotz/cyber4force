@@ -1,17 +1,21 @@
 table {
   margin: 20px;
+  position: absolute;
+  right: 500px;
+  top: 70px;
+  border: 6px solid black;
 }
 
 .light-cell {
   background: rgb(211, 210, 210);
-  width: 45px;
-  height: 45px;
+  width: 65px;
+  height: 65px;
 }
 
 .dark-cell {
   background: rgb(63, 63, 63);
-  width: 45px;
-  height: 45px;
+  width: 65px;
+  height: 65px;
 }
 
 .selected {
