@@ -1,2 +1,2 @@
 # cyber4force
-cyber4force projects
+cyber4force exercises
